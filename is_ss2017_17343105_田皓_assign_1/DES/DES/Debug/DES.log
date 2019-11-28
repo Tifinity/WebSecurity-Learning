@@ -1,0 +1,6 @@
+﻿  DES.cpp
+  main.cpp
+  正在生成代码...
+T:\TH\大三上\信息安全\作业一\DES\DES\DES.cpp(286,24): warning C4244:  “=”: 从“unsigned long”转换到“char”，可能丢失数据
+T:\TH\大三上\信息安全\作业一\DES\DES\DES.cpp(288): warning C4172:  返回局部变量或临时变量的地址: s
+  DES.vcxproj -> T:\TH\大三上\信息安全\作业一\DES\Debug\DES.exe
